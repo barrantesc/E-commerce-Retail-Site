@@ -14,15 +14,15 @@ A backend application for an e-commerce retail site.
 
 [View Application](https://barrantesc.github.io/E-commerce-Retail-Site/)
 
-[Schema and seeds video demonstration](https://www.youtube.com/watch?v=kNnpY_2yd-8)
+[Schema and seeds video demonstration](https://drive.google.com/file/d/1k5MnCJM4s0VJCx2WwCv9ZclzwUimi_YL/view)
 
-[All and single categories, products, and tags video demonstration](https://youtu.be/blPbMUKUhbg)
+[All and single categories, products, and tags video demonstration](https://drive.google.com/file/d/1FPmyrKF9TofALJpGdozgnPvsAJEqXzoo/view)
 
-[POST, PUT, DELETE categories video demonstration](https://youtu.be/4G1zeplcj1Q)
+[POST, PUT, DELETE categories video demonstration](https://drive.google.com/file/d/1_Qy30zFFoeMj4RlV8G-elXlKlEzRr75-/view)
 
-[POST, PUT, DELETE products video demonstration](https://youtu.be/hVrQYBy3xaM)
+[POST, PUT, DELETE products video demonstration](https://drive.google.com/file/d/1qYPaUJVLF-LLre_34OYo1hu7YDKDZki2/view)
 
-[POST, PUT, DELETE tags video demonstration](https://youtu.be/ttwoeZa0Tds)
+[POST, PUT, DELETE tags video demonstration](https://drive.google.com/file/d/1ZXyRYM5t3YlOP3u7qNEQwUfy5qIrIEYQ/view)
 
 
 ## Contribution
