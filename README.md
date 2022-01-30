@@ -13,7 +13,7 @@ A backend application for an e-commerce retail site.
 ## Website
 [View Application](https://barrantesc.github.io/E-commerce-Retail-Site/)
 
-![Schema and seeds video demonstration](./demo/demo1)
+[Schema and seeds video demonstration](https://github.com/barrantesc/E-commerce-Retail-Site/blob/bd8f962b48dc45a8f1614e21c24637367c17ea82/demo/demo1%20.gif)
 
 ![All and single categories, products, and tags video demonstration](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/5659c96a-b8a2-4d81-y9fd-fb56b6421f04)
 
